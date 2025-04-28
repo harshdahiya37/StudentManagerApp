@@ -8,5 +8,3 @@ Search students by name
 Sort students by grade
 Built with Java 8 Lambda and Streams
 
-Usage:
-Clone the repository, run the StudentManagementApp class, and interact with the console menu to manage student records.
